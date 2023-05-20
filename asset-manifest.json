@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ec66233.css",
+    "main.js": "/static/js/main.3567febb.js",
+    "static/js/787.6606bfd5.chunk.js": "/static/js/787.6606bfd5.chunk.js",
+    "static/media/sunflower.png": "/static/media/sunflower.ae16b4d197b9caa20e4f.png",
+    "index.html": "/index.html",
+    "main.2ec66233.css.map": "/static/css/main.2ec66233.css.map",
+    "main.3567febb.js.map": "/static/js/main.3567febb.js.map",
+    "787.6606bfd5.chunk.js.map": "/static/js/787.6606bfd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ec66233.css",
+    "static/js/main.3567febb.js"
+  ]
+}
